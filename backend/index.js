@@ -18,6 +18,10 @@ const uri = process.env.MONGO_URL;
 
 const app = express();
 
+app.get("/", (req, res) => {
+  res.send("Zerodha Backend is running successfully!");
+});
+
 app.use(cors());
 app.use(bodyParser.json());
 
