@@ -41,7 +41,7 @@ function Navbar() {
                 className="nav-link active"
                 href="https://zerodha-clone-navy-ten.vercel.app/"
               >
-                Login
+                Dashboard
               </a>
             </li>
 
