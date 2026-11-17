@@ -11,27 +11,27 @@ function Universe() {
         </p>
 
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/smallcaseLogo.png" />
+          <img src="media/images/smallcaseLogo.png" alt="Smallcase" />
           <p className="text-small text-muted">Thematic investment platform</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/streakLogo.png" style={{width:"30%"}} />
+          <img src="media/images/streakLogo.png" style={{width:"30%"}} alt="Streak" />
           <p className="text-small text-muted mt-2">Algo & strategy platform</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/sensibullLogo.svg" />
+          <img src="media/images/sensibullLogo.svg" alt="Sensibull" />
           <p className="text-small text-muted mt-4">Options trading platform</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/zerodhaFundhouse.png" style={{width:"40%"}} />
+          <img src="media/images/zerodhaFundhouse.png" style={{width:"40%"}} alt="Zerodha Fundhouse" />
           <p className="text-small text-muted mt-2">Asset management</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/goldenpiLogo.png" />
+          <img src="media/images/goldenpiLogo.png" alt="GoldenPi" />
           <p className="text-small text-muted mt-2">Bonds trading platform</p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="media/images/dittoLogo.png" style={{width:"30%"}} />
+          <img src="media/images/dittoLogo.png" style={{width:"30%"}} alt="Ditto" />
           <p className="text-small text-muted mt-2">Insurance</p>
         </div>
         <button

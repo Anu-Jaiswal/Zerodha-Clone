@@ -6,50 +6,50 @@ function Footer() {
        <div className="container boredr-top mt-5" >
          <div className="row mt-5">
             <div className="col">
-                <img src="media/images/logo.svg" style={{width: "50%"}} />
+                <img src="media/images/logo.svg" style={{width: "50%"}} alt="Zerodha logo" />
                 <p>&copy; 2010 - 2024, Not Zerodha broking Ltd. All rights reserved.</p>
             </div>
             <div className="col">
                 <p>Company</p>
-                <a href="" style={{textDecoration:"none", text:"muted"}}>About</a> 
+                <button style={{textDecoration:"none", text:"muted"}}>About</button> 
                 <br/>
-                <a href="">Product</a>
+                <button >Product</button>
                 <br/>
-                <a href="">Pricing</a>
+                <button>Pricing</button>
                 <br/>
-                <a href="">Referral Programs</a>
+                <button >Referral Programs</button>
                 <br/>
-                <a href="">Careers</a>
+                <button>Careers</button>
                 <br/>
-                <a href="">Zerodha.tech</a>
+                <button >Zerodha.tech</button>
                 <br/>
-                <a href="">Press& media</a>
+                <button>Press& media</button>
                 <br/>
-                <a href="">Zerodha cares (CSR)</a>
+                <button>Zerodha cares (CSR)</button>
                 <br/>
             </div>
             <div className="col">
                 <p>
                     Support
                 </p>
-                <a href="">Contact</a> 
+                <button >Contact</button> 
                 <br/>
-                <a href="">Support portal</a>
+                <button>Support portal</button>
                 <br/>
-                <a href="">Z-Connect blog</a>
+                <button>Z-Connect blog</button>
                 <br/>
-                <a href="">List of charges</a>
+                <button>List of charges</button>
                 <br/>
-                <a href="">Downloads & resources</a>
+                <button>Downloads & resources</button>
                 <br/>
             </div>
             <div className="col">
                 <p>Account</p>
-                <a href="">Open an account</a>
+                <button>Open an account</button>
                 <br/>
-                <a href="">Fund Transfer</a>
+                <button>Fund Transfer</button>
                 <br/>
-                <a href="">60 day challenge</a>
+                <button >60 day challenge</button>
                 <br/>
             </div>
          </div>

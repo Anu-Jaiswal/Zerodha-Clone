@@ -5,7 +5,7 @@ function Hero() {
     <section className="container-fluid" id="supportHero">
       <div className="p-5 " id="supportWrapper">
         <h4>Support Portal</h4>
-        <a href="">Track Tickets</a>
+        <button >Track Tickets</button>
       </div>
       <div className="row p-5 m-3">
         <div className="col-6 p-3">
@@ -14,13 +14,13 @@ function Hero() {
           </h1>
           <input placeholder="Eg. how do I activate F&O" />
           <br />
-          <a href="">Track account opening</a>
+          <button >Track account opening</button>
           &nbsp;&nbsp;&nbsp;
-          <a href="">Track segment activation</a>
+          <button >Track segment activation</button>
           &nbsp;&nbsp;&nbsp;
-          <a href="">Intraday margins</a>
+          <button >Intraday margins</button>
           &nbsp;&nbsp;&nbsp;
-          <a href="">Kite user manual</a>
+          <button >Kite user manual</button>
         </div>
         <div className="col-6 p-3" id="Featured">
           <h1 className="fs-3" >
@@ -28,10 +28,10 @@ function Hero() {
           </h1>
           <ol>
             <li>
-              <a href="">Current Takeovers and Delisting - January 2024</a>
+              <button >Current Takeovers and Delisting - January 2024</button>
             </li>
             <li>
-              <a href="">Latest Intraday leverages - MIS & CO</a>
+              <button >Latest Intraday leverages - MIS & CO</button>
             </li>
           </ol>
         </div>
